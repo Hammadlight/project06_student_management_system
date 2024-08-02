@@ -123,7 +123,7 @@ class StudentManager {
 
 // Main function to run the program
 async function main() {
-    console.log(chalk.bold.blueBright('\n\tJawaria Tech - Student Management System'));
+    console.log(chalk.bold.blueBright('\n\tHammad Tech - Student Management System'));
     console.log(chalk.bold('-'.repeat(60)));
 
     // Creating an instance of StudentManager
